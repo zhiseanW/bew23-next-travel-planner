@@ -1,0 +1,2 @@
+run npx migrate dev everytime if updating database to sync it
+npx prisma studio to add data
